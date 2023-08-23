@@ -2,4 +2,4 @@ function logger(message) {
   console.log(message);
 }
 
-module.exports = { logg };
+module.exports = { logger };
